@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-contentful-practice-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@contentful/rich-text-react-renderer": "^15.16.2",
+    "contentful": "^9.2.15",
+    "next": "13.1.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "slug": "^8.2.2"
+  }
+}
